@@ -1,0 +1,6 @@
+git clone https://github.com/maldevel/IPGeolocation
+cd IPGeolocation
+chmod +x ipgeolocation.py
+pip install -r requirements.txt
+python ipgeolocation.py -m
+python ipgeolocation.py -t IPnya
